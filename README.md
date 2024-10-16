@@ -27,6 +27,26 @@ Le jeu de données utilisé dans ce projet est disponible sur [OpenData Paris](h
 - `data/`: Répertoire contenant les jeux de données utilisés pour l'analyse (non inclus dans le dépôt pour des raisons de taille)
 - `README.md`: Ce fichier de présentation du projet
 
+
+
+## Résultats attendus
+
+- Une vue globale de l'état des arbres de Paris
+- Une optimisation des tournées d'entretien des arbres
+- Une analyse des espèces d'arbres, des stades de développement, et de la répartition géographique
+- Des insights sur les arbres remarquables et la biodiversité
+
+## Contributions
+
+Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet ou ajouter des fonctionnalités, n'hésitez pas à ouvrir une issue ou à proposer une pull request.
+
+---
+
+**Auteur :** Angèle MENDY
+**Date :** Octobre 2024
+
+
+
 ## Installation
 
 Pour reproduire ce projet sur votre machine, suivez les étapes ci-dessous :
@@ -55,20 +75,4 @@ Pour reproduire ce projet sur votre machine, suivez les étapes ci-dessous :
     ```
 
 2. Explorer et exécuter les cellules pour reproduire l'analyse.
-
-## Résultats attendus
-
-- Une vue globale de l'état des arbres de Paris
-- Une optimisation des tournées d'entretien des arbres
-- Une analyse des espèces d'arbres, des stades de développement, et de la répartition géographique
-- Des insights sur les arbres remarquables et la biodiversité
-
-## Contributions
-
-Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet ou ajouter des fonctionnalités, n'hésitez pas à ouvrir une issue ou à proposer une pull request.
-
----
-
-**Auteur :** Prénom Nom  
-**Date :** Octobre 2024
 
