@@ -1,0 +1,26 @@
+# Ignore les dossiers système Windows
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Ignore les dossiers spécifiques aux environnements Anaconda et Jupyter Notebook
+anaconda3/
+.vscode/
+.ipynb_checkpoints/
+.conda/
+.condarc
+
+# Ignore les fichiers de configuration Windows
+NTUSER.DAT*
+*.dat.LOG*
+*.ini
